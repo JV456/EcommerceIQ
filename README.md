@@ -1,4 +1,4 @@
-# EcommerceIQ: AI Agent for E-commerce Data Analysis
+# EcommerceIQ: AI Agent to Answer E-commerce Data Questions
 
 **EcommerceIQ** is an intelligent AI-powered agent designed to answer your questions about e-commerce data. By leveraging natural language processing, this tool allows you to query your sales data in a conversational way, eliminating the need for complex SQL queries. Just ask a question like "What were the total sales last month?" or "Who are my top 10 customers by purchase value?" and get instant answers.
 
