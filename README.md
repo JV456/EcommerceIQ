@@ -56,6 +56,12 @@ The application can connect to two types of databases:
 
 ---
 
+## 🧪 Demo
+
+**Demo Link:** https://drive.google.com/file/d/1_FeCfTIcwl-gqAOwq8AiX7zsD8waLF5h/view?usp=sharing
+
+---
+
 If you like this repository, give it a star ⭐!
 
 ---
