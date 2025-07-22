@@ -22,7 +22,7 @@ ad_sales_df.to_sql("AD_Sales", conn, if_exists="replace", index=False)
 total_sales_df = pd.read_csv(os.path.join(data_dir, "Total_Sales.csv"))
 total_sales_df.to_sql("Total_Sales", conn, if_exists="replace", index=False)
 
-print("✅ All tables loaded into ecommerce.db successfully.")
+print("✅ All tables loaded into sales_analysis.db successfully.")
 
 ## Display all the records
 # print("The inserted records are")
