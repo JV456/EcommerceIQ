@@ -45,7 +45,7 @@ The application can connect to two types of databases:
 
 1.  **Run the application:**
     ```
-    python app.py
+    streamlit run app.py
     ```
 2.  Once the application is running, you can start asking questions in your terminal. The agent will query the configured database (MySQL if variables are set, otherwise SQLite).
 
